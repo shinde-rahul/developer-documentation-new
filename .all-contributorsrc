@@ -41,6 +41,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "sumbria",
+      "name": "Balbinder Sumbria",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6416992?v=4",
+      "profile": "https://incodit.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
