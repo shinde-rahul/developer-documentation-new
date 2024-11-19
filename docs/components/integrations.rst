@@ -128,3 +128,14 @@ If the Integration includes a Builder, Email, or Landing Page:
 
 1. :ref:`Register the Integration<components/integrations_builder:Register the Integration as a builder>` as an Integration that provides a custom builder.
 2. Configure what featured builders the Integration supports (Mautic currently supports 'Email' and 'Landing Page' builders).
+
+.. vale off
+
+Config Form Notes Interface
+***************************
+
+.. vale on
+
+The interface, :code:`\Mautic\IntegrationsBundle\Integration\Interfaces\ConfigFormNotesInterface`, provides a way to put notes, either info or warning, on the plugin configuration form.
+
+Read more about to how-tos :ref:`Integration Configuration Form Notes<Integration Configuration Form Notes>`
