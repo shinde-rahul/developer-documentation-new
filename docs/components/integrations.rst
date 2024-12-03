@@ -136,6 +136,6 @@ Config Form Notes Interface
 
 .. vale on
 
-The interface, :code:`\Mautic\IntegrationsBundle\Integration\Interfaces\ConfigFormNotesInterface`, provides a way to put notes, either info or warning, on the plugin configuration form.
+The interface, :code:`\Mautic\IntegrationsBundle\Integration\Interfaces\ConfigFormNotesInterface`, provides a way to add notes, either info or warning, to the Plugin configuration form.
 
 Read more about to how-tos :ref:`Integration Configuration Form Notes<components/integrations_configuration_form_notes:Integration configuration form notes>`
